@@ -5,3 +5,6 @@ Added one more line of text.
 
 ## Feature
 Feature description
+
+## Another feature
+Another description
