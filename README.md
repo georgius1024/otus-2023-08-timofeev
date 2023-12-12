@@ -2,3 +2,6 @@
 
 Here will be changes being done in behalf of this project.
 Added one more line of text.
+
+## Feature
+Feature description
